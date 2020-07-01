@@ -1,2 +1,3 @@
 # tpAngular
-pysw2020
+pysw2020  
+probar conexion git
